@@ -1,16 +1,45 @@
 ### Hi there 👋
 
-<!--
-**saurabhhack123/saurabhhack123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on:
 
-Here are some ideas to get you started:
+* Making payments safe & easy while experiencing the world.
+* Deliver web applications from an idea inception and validation to a scalable solution.
+* Collaborate with colleagues to ideate solutions for users, prioritising based on business impact, and A/B test them.
+* Develop new user-facing products and optimize existing ones using both client-side as well as server-side languages and technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:
+
+JS Hacks / Perl / Vue Js 
+Scalabling Backend architecture for multi-millions of users
+How Global Payments works
+
+
+👯 I’m looking to collaborate with:
+
+Everyone 🤗
+
+🤔 I’m looking for help with:
+Feedbacks / Ideas
+
+💬 Ask me about:
+
+How to crack coding interviews at Big Tech companies
+How to contribute open source 
+How to start learning web development from scratch 
+How to become mentor
+
+📫 How to reach me:
+
+Mail Id: saurabhhack123@gmail.com
+Codementor: https://www.codementor.io/@saurabhhack123
+Portfolio: http://www.xcodedoctor.com
+Facebook: https://www.facebook.com/saurabhhack123
+Instagram: https://www.instagram.com/saurabhhack123/
+Github: https://github.com/saurabhhack123
+LinkedIn : https://www.linkedin.com/in/codedoctor/
+
+😄 Pronouns:
+
+He/Him
+
+
